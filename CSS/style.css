@@ -1,0 +1,645 @@
+header
+{
+    height: 65%;
+    background-color: #222222;   
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 14px;
+    color: #d4d4d4;
+}
+
+footer
+{
+    height: 350px;
+    background-color: #131313;
+}
+
+a
+{
+    text-decoration: none;
+    color: #d4d4d4;
+}
+
+.logo
+{
+    width: 62px;
+    height: 62px;
+    margin-top: 40px;
+}
+
+nav
+{
+   margin: 0 auto;
+   flex-wrap: wrap;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 50px; 
+}
+
+.container-h
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 52%;
+    margin-top: 40px;
+}
+.h1
+{
+  width: 500px;
+}
+
+.container-h2
+{
+   margin: 0 auto;
+   flex-wrap: wrap;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+
+.offer
+{
+    width: 244px;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace; 
+    color: white;
+}
+
+.desc
+{
+    width: 254px;
+    margin-bottom: 54px;
+}
+
+.btn
+{
+    padding: 18px 45px;   
+    background-color: #FFCB06;
+    border-radius: 25px;
+    text-transform: uppercase;
+    color: black;   
+}
+
+.b-r
+{
+    padding-left: 30px ;
+}
+
+.advantage
+{ 
+   margin: 0 auto;
+   flex-wrap: wrap;
+   display: flex;
+   justify-content: space-evenly;
+   height: 320px;
+   background-color: #131313;
+   align-items: center;
+}
+
+.map
+{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.content
+{
+    height: 75%;
+    background-color: white;
+    align-items: center;
+    color: black;
+}
+
+.content-t
+{
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content:  space-evenly;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-top: 75px;
+}
+
+.content-b
+{
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;   
+}
+
+.b1
+{
+    width:25%;  
+}
+
+.b2
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+.intro-title
+{
+    color: #FFCB06;
+    margin-block-start: 0;
+    padding-left: 0;
+}
+span
+{
+    color: black;
+}
+
+.h3-content
+{
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;  
+}
+
+.p-content
+{
+    width: 100%;    
+}
+
+.container-of
+{
+    margin: 0 auto;   
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #F0F0F0;
+    height: 480px;
+    align-items: center;
+    color: black;
+    flex-wrap: wrap;
+}
+
+
+
+.btn2
+{
+    padding: 18px 45px;   
+    background-color: #222222;
+    border-radius: 25px;
+    text-transform: uppercase;
+    color: white;    
+}
+
+.h3-of1
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    width: 320px;
+    margin-bottom: 70px;
+}
+
+.of1{
+    width: 339px;
+}
+.of2{
+    width: 500px;
+}
+
+.of-txt{
+    font-family: 'Courier New', Courier, monospace;
+    line-height:1.25em;
+    font-weight:700;
+    font-size: 24px;
+    margin-bottom: 50px;
+    margin-top: -100px;
+}
+
+.arrow
+{
+    padding: 0 0 0 35px;
+}
+
+.container-r
+{
+    height: 470px;
+    background-color: #222222;    
+}
+
+.r1
+{
+    padding-top: 80px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly;  
+    align-items: center;
+}
+
+.zag
+{
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    background-color: #111111;  
+}
+
+.con
+{
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid #555555 ;
+}
+
+.r2 
+{
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;   
+    padding-top: 60px;
+}
+
+.p-r2
+{
+    width: 110px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.h3-rasp
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: #FECA30;
+    width: 160px;
+}
+
+.a-rasp
+{
+    color: #FECA30;
+    text-decoration: underline;
+}
+
+.c1,.c2,.c3,.c4
+{
+    width: 10%;
+}
+
+.icon
+{
+    margin-bottom: 15px;
+}
+
+.nav
+{
+    margin: 0 0 0 20px;
+}
+
+.container-f
+{
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding-top: 80px;
+}
+
+.f-c
+{
+   flex-wrap: wrap;
+   display: flex;  
+   flex-direction: column;
+   margin-right: 30px;
+}
+
+.f1
+{
+    display: flex;
+    align-self: flex-start;
+    align-items: center;
+    padding-bottom: 90px;
+}
+
+.f2
+{
+    display: flex;
+    align-self: flex-end;
+    align-items: center;
+    padding-bottom: 40px;
+    color: #555555;
+}
+
+.f-c2
+{   
+   display: flex; 
+   justify-content: space-around;  
+   width: 52%;
+   align-items: center;
+}
+
+.f-m 
+{
+    list-style-type: none;
+    margin-block-start: 0;
+    padding-left: 0;
+    padding-top: 15px;
+    margin-top: 15px;
+    color: #888888;
+    border-top: 1px solid #555555;
+    width: 180px;
+} 
+
+.f-m > li
+{
+    padding-top: 20px;
+} 
+
+.a-f
+{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;    
+}
+
+.div-content
+{
+    width: 450px;
+}
+
+
+@media (min-width:768px) and (max-width:1024px)
+{   
+    .div-content
+    {
+    width: 40%;
+    }
+
+    .offer,.desc
+    {
+        margin: 0 auto;
+    }
+
+    .desc
+    {
+        padding-bottom: 10%;
+    }
+    .left
+    {
+        width: 40%;
+    }    
+        
+    .moon
+    {
+        width: 100%;
+        margin-bottom: 10%;
+    }
+
+    .right
+    {
+        margin-top:3%;
+        width:40%;
+    }
+
+    .container-of
+    {
+        height: 500px;
+    }
+
+    .of-txt{
+       margin-top: 50px;
+    }
+
+    .of1,.of2
+    {
+        width: 40%;
+    }
+
+    .of1
+    {
+        margin-left: 2%;
+        margin-bottom: 10%;
+    }
+
+    form
+    {
+        width: 400px;;
+    }
+
+    .txt
+    {
+        max-width: 300px;
+    }
+
+    .txt2
+    {
+        max-width: 135px;
+    }
+
+    .label
+    {
+       width: 307px;
+       font-size: 11px; 
+       
+    }
+
+    .f-c
+    {  
+        padding-right: 50px;
+    }
+
+    .f-m
+    {
+        width: 150px;
+    }
+
+}
+
+@media (min-width:765px) and (max-width:767px)
+{
+    body
+    {
+        display: none;
+    }
+}
+
+@media (min-width:320px) and (max-width:764px)
+{
+
+    .content
+    {
+        align-items: center;
+    }
+
+    .moon
+    {
+        display: none;
+    }
+
+    .container-of
+    {
+        height: 650px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .offer
+    {
+        font-size: 30px;
+    }
+
+    .advantage
+    {
+        flex-wrap: nowrap;
+        flex-direction: column;
+        height: 40%;
+        align-items: center;
+    }
+
+    .logo
+    {
+        width: 32px;
+        height: 32px;
+    }
+
+    .c1,.c2,.c3,.c4
+    {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 250px;
+    }
+
+    .icon
+    {
+        padding-right: 50px;
+    }
+
+    .content-t
+    {
+        flex-direction: column;
+        margin: 0;
+        align-items: center;       
+    }
+
+    .content-b
+    {
+        flex-direction: column;
+        margin: 0 auto;
+        align-items: center;
+        width: 280px;
+    }
+
+    .div-content
+    {
+        width: 280px;
+    }
+
+    .map
+    {
+        width: 280px;
+    }
+
+    .b1
+    {
+        width: 280px;
+        font-size: 22px;
+    }
+
+    .b2
+    {
+        margin-bottom: 10px;
+    }
+
+    span
+    {
+        font-size: 14px;
+    }
+
+    .intro-title
+    {
+        width: 280px;
+    }
+
+    .of-txt
+    {
+        max-width: 300px;
+        font-size: 20px;
+        margin-right: 0;
+        margin: 0;
+        margin-bottom: 10px; 
+        
+    }
+
+    .of-txt-1
+    {
+        margin: 0;
+        margin-bottom: 10px;
+        width: 100%;       
+    }
+
+    .txt
+    {
+        max-width: 150px;
+    }
+    
+    .txt2
+    {
+        max-width: 150px;
+    }
+
+    .label,label
+    {
+        margin-right: 0;
+        font-size: 10px;               
+    }
+
+    .of2
+    {
+        width: 50%;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .of1
+    {
+        width: 250px;      
+    }
+
+    .btn2
+    {
+        max-width: 250px;
+    }
+
+    form
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+   .r1
+   {
+       flex-direction: column;
+   }
+
+   .r2, .f-c2
+   {
+       display: none;
+   }
+   
+   .f-c,.container-f
+   {
+       height: 300px;
+       padding: 0;
+       padding-top: 10px;
+   }
+   
+}
